@@ -1,7 +1,7 @@
 [![MasterHead](http://wildfirecomms-images.co.uk/-1491407306.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi, I am Emmanuel Magut</h1>
 <h3 align="center">A Passionate full-stack Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" />
+<img align="left" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuel-magut&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuel-magut" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuel-magut" alt="emmanuel-magut" /></a> </p>
